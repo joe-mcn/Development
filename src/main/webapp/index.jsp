@@ -2,12 +2,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Joey's Webpage</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
-</h1>
+<h1>Joe McNally's Webpage!</h1>
 <br/>
-<a href="test.html">Hello Servlet</a>
+<h3 style="color:blue">I hope you enjoy this picture.</h3>
+<img src="dog.jpeg" alt="Cool Dog">
+<br/>
+<a href="HelloServlet.java">Hello Servlet</a>
+<br/>
+<a href="test.html">Test Page</a>
 </body>
 </html>
